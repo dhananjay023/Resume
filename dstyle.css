@@ -1,0 +1,131 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header, main {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 10px 0;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 20px 0;
+}
+
+/* Main Content Styles */
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+article {
+    flex: 1;
+    margin: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid #f4a261;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    color: #2a9d8f;
+}
+
+h3 {
+    margin-top: 20px;
+    color: #264653;
+}
+
+p, li {
+    margin: 5px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li::before {
+    content: '• ';
+    color: #2a9d8f;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Contact Section */
+a {
+    color: #2a9d8f;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+i {
+    margin-right: 8px;
+}
+
+/* About Section */
+section#mainRight {
+    background-color: #e9ecef;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+section#mainRight p {
+    margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+    
+    header p {
+        font-size: 1em;
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+
+    h3 {
+        font-size: 1em;
+    }
+}
