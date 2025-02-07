@@ -27,7 +27,7 @@
                 <p>
                     <strong>LinkedIn: </strong>
                     <i class="fab fa-linkedin" aria-hidden="true"></i>
-                    <a href="https://www.linkedin.com/in/dhananjay-varshney-b22505260">www.linkedin.com/in/dhananjay-varshney-b22505260</a>
+                    <a href="https://www.linkedin.com/in/dhananjay-varshney-b22505260">LinkedIn</a>
                 </p>
                 <p>
                     <strong>GitHub: </strong>
