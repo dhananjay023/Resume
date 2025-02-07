@@ -87,8 +87,5 @@
     </p>
     <p>As I continue to grow and learn in my academic and professional journey, I remain committed to pushing boundaries, embracing challenges, and making meaningful contributions to the ever-evolving landscape of technology.</p>
 </section>
-
-        </article>
-    </main>
 </body>
 </html>
