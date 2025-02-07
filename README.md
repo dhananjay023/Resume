@@ -27,7 +27,7 @@
                 <p>
                     <strong>LinkedIn: </strong>
                     <i class="fab fa-linkedin" aria-hidden="true"></i>
-                    <a href="https://www.linkedin.com/in/dhananjay-varshney-b22505260">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/dhananjay-varshney-b22505260">https://www.linkedin.com/in/dhananjay-varshney-b22505260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a>
                 </p>
                 <p>
                     <strong>GitHub: </strong>
